@@ -1,6 +1,6 @@
-# 🌿 SilverMove
+# 🌿 Silver Move
 
-**SilverMove** is a beginner-friendly web project designed to make exercise and gentle yoga information easier to approach for older adults.
+**Silver Move** is a beginner-friendly web project designed to make exercise and gentle yoga information easier to approach for older adults.
 
 Instead of focusing on advanced poses or high-intensity fitness, the project organizes movement around mobility, muscle strengthening, balance, gentle aerobic activity, accessible yoga and safety.
 
@@ -30,7 +30,7 @@ This project is also an exercise in turning a real-world problem into a small we
 ## 📁 Project Structure
 
 ```text
-silvermove/
+silver move/
 ├── index.html
 ├── style.css
 ├── script.js
@@ -50,20 +50,18 @@ No installation is required.
 
 ## 🌐 Live Demo
 
-[Open Silver Move]()
-
-## 📸 Screenshot
+[Open Silver Move](https://shivrajpatdev.github.io/Silver-Move/)
 
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![SilverMove Home Page](assets/screenshots/home.png)
+![Silver Move Home Page](assets/screenshots/home.png)
 
 ### 🏋️ Exercise Library
-![SilverMove Exercise Library](assets/screenshots/exercises.png)
+![Silver Move Exercise Library](assets/screenshots/exercises.png)
 
 ### 🧘 Yoga & Weekly Plans
-![SilverMove Yoga and Plans](assets/screenshots/plans.png)
+![Silver Move Yoga and Plans](assets/screenshots/plans.png)
 
 ## 🌐 Deploy with GitHub Pages
 
@@ -81,7 +79,7 @@ This project **does not prescribe those targets to an individual**. The sample p
 
 ## ⚠️ Safety
 
-SilverMove is an educational web project, not a medical, physiotherapy or rehabilitation program.
+Silver Move is an educational web project, not a medical, physiotherapy or rehabilitation program.
 
 People with health conditions, significant mobility limitations, recent surgery, a history of falls, or uncertainty about which movements are appropriate should seek appropriate professional guidance before starting or changing an exercise routine.
 
