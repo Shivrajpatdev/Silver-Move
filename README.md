@@ -54,7 +54,16 @@ No installation is required.
 
 ## 📸 Screenshot
 
+## 📸 Screenshots
 
+### 🏠 Home Page
+![SilverMove Home Page](assets/screenshots/home.png)
+
+### 🏋️ Exercise Library
+![SilverMove Exercise Library](assets/screenshots/exercises.png)
+
+### 🧘 Yoga & Weekly Plans
+![SilverMove Yoga and Plans](assets/screenshots/plans.png)
 
 ## 🌐 Deploy with GitHub Pages
 
