@@ -48,6 +48,14 @@ No installation is required.
 2. Open `index.html` in a browser.
 3. Explore the weekly plans, exercise library and yoga section.
 
+## 🌐 Live Demo
+
+[Open Silver Move]()
+
+## 📸 Screenshot
+
+
+
 ## 🌐 Deploy with GitHub Pages
 
 1. Push the project to a GitHub repository.
@@ -76,10 +84,6 @@ Use stable support for balance exercises when needed. Stop an activity if it cau
 - National Institute on Aging — Three Types of Exercise: https://www.nia.nih.gov/health/four-types-exercise-can-improve-your-health-and-physical-ability
 - National Institute on Aging — Health Benefits of Exercise: https://www.nia.nih.gov/health/exercise-and-physical-activity/health-benefits-exercise-and-physical-activity
 - World Health Organization — Physical Activity: https://www.who.int/initiatives/behealthy/physical-activity
-
-## 🤖 AI Assistance
-
-AI tools were used to assist with code generation, organization, debugging ideas and documentation. The project owner should review, test and understand the code before presenting the project as their work.
 
 ## 👤 Author
 
