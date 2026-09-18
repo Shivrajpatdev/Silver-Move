@@ -52,16 +52,16 @@ No installation is required.
 
 [Open Silver Move](https://shivrajpatdev.github.io/Silver-Move/)
 
-## 📸 Screenshots
+## 📸 Screenshot
 
 ### 🏠 Home Page
-![Silver Move Home Page](assets/screenshots/home.png)
+![Silver Move Home Page](assets/screenshot/home.png)
 
 ### 🏋️ Exercise Library
-![Silver Move Exercise Library](assets/screenshots/exercises.png)
+![Silver Move Exercise Library](assets/screenshot/exercises.png)
 
 ### 🧘 Yoga & Weekly Plans
-![Silver Move Yoga and Plans](assets/screenshots/plans.png)
+![Silver Move Yoga and Plans](assets/screenshot/plans.png)
 
 ## 🌐 Deploy with GitHub Pages
 
